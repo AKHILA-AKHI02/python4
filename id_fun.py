@@ -1,0 +1,9 @@
+x=5
+print(x)
+print(id(x))
+y=7
+print(y)
+print(id(y))
+y=y-2
+print(y)
+print(id(y))
